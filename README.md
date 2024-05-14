@@ -44,6 +44,7 @@
 <p> 
 - 👨‍🎓 Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Engenharia da Computação.<br/>
 - 💼 Tenho interesse em vagas para Dev Jr.<br/>
+- 🌐 Possuo dominío intemediário de Inglês (Nível B2).
 - ⚽ Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. 🦊<br/>
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas. 🤓<br />
 - 📧 Para me encontrar, esse é meu <a href="mailto:pereirascatolino@gmail.com" target="_blank">e-mail</a> pessoal.<br/>
