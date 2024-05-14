@@ -56,8 +56,8 @@
 
 📱 GitHub Stats:
 
-<div>
-<img align="center" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scatolinogui&theme=github_dark" vspace="15" hspace="15"/>
+<div align="left">
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scatolinogui&theme=github_dark" vspace="15" hspace="15"/>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scatolinogui&theme=github_dark" vspace="15" hspace="15"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scatolinogui&theme=github_dark" vspace="15" hspace="15"/>
 
@@ -147,9 +147,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg">
 </div>
-
 
 -----
 
