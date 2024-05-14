@@ -122,7 +122,6 @@
 ░ ░   ░  ░░░ ░ ░  ▒ ░  ░ ░    ░  ░░ ░   ░     ░░   ░ ░      ░      ░   
       ░    ░      ░      ░  ░ ░  ░  ░   ░  ░   ░            ░      ░  ░
                                                                        
-
 ```                                        
 
 </div>
@@ -133,13 +132,12 @@
 <img align="center" alt="Footer" src="https://github.com/scatolinogui/scatolinogui/blob/main/img/github-footer-image.png?raw=true"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/ScatolinoGui/ScatolinoGui/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg?"  />
 </div>
 
-###
+
+-----
 
