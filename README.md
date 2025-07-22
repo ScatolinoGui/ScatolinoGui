@@ -28,7 +28,7 @@
 </div>
 
 <div align="justify">
-<i><b>Olá</b> 👋, sou o <code>Guilherme Scatolino</code>, tenho 21 anos, moro em BH. Atualmente sou <code>aluno</code> no curso de Engenharia da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> onde tenho mergulhado nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir de forma significativa para projetos inovadores. Com uma mente ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente. </i> <br />
+<i><b>Olá</b> 👋, sou o <code>Guilherme Scatolino</code>, tenho 22 anos, moro em BH. Atualmente sou <code>aluno</code> no curso de Engenharia da Computação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> onde tenho mergulhado nas complexidades e maravilhas deste campo em constante evolução. Sou impulsionado pela paixão pelo aprendizado e pela constante busca por novos desafios. Estou determinado a adquirir experiência prática no mercado, aproveitando cada oportunidade para ampliar meus conhecimentos e contribuir de forma significativa para projetos inovadores. Com uma mente ávida por conhecimento, estou pronto para enfrentar os desafios do mundo da tecnologia e crescer profissionalmente. </i> <br />
 </div>
 
 -----
