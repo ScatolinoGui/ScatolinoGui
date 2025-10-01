@@ -147,7 +147,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ScatolinoGui/count.svg">
+  <img src="https://profile-counter.deno.dev/ScatolinoGui/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 -----
