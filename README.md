@@ -48,7 +48,6 @@
 - ⚽ Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>. ᕙ🦊ᕗ<br/>
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas. 🤓<br />
 - 📧 Para me encontrar, esse é meu <a href="mailto:pereirascatolino@gmail.com" target="_blank">e-mail</a> pessoal.<br/>
-- 🕹️ Meus hobbies são ver jogos de <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, torço para o <a href="https://www.nba.com/warriors" target="_blank">GSW</a>, também gosto de ler <a href="https://pt.wikipedia.org/wiki/Mang%C3%A1" target="_blank">mangás</a> o meu favorito é <a href="https://pt.wikipedia.org/wiki/Berserk_(mang%C3%A1)" target="_blank">Berserk</a>, música e arte.<br/>
 </p>
 </div>
 </div>
